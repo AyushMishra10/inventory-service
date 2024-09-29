@@ -12,7 +12,7 @@ import com.prj.ms.inventory_service.service.InventoryService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/inventory")
 @RequiredArgsConstructor
 public class InventoryController {
 	
